@@ -1,0 +1,6 @@
+Flask-RESTful
+flask-jwt
+flask-sqlalchemy
+uwsgi
+redis
+gunicorn

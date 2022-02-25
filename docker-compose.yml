@@ -1,0 +1,19 @@
+version: '3'
+services:
+  flask_service: 
+    container_name: flask_container
+    image: flask_image
+    command: tail -f /dev/null
+    build:
+      context: flask_folder
+      
+  nginx_service: 
+    container_name: nginx_container
+    image: nginx_image
+    build:
+      context: nginx_folder
+    
+
+
+      
+
