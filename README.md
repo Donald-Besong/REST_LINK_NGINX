@@ -10,7 +10,7 @@
 <br />
 <div align="center">
 <a href="http://github.com/Donald-Besong/Donald_Rest_API">
-<img src="images/logo.png" alt="Logo" width="80" height="80">
+<img src="flask_folder/myproject/images/logo.png" alt="Logo" width="80" height="80">
 </a>
 
 <h3 align="center">Donald's rest API</h3>
